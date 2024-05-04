@@ -1,0 +1,48 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.14.3
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: gh:entelecheia/hyfi-template
+codecov_graph_token: wwvt5uOSYi
+copyright_year: 2024
+documentaion_tool: jupyter-book
+documentation_url: https://hyfi-lpg.entelecheia.ai
+email: entelecheia@hotmail.com
+favicon_path: https://assets.entelecheia.ai/favicon.png
+friendly_name: HyFI-LPG
+github_repo_name: hyfi-lpg
+github_username: entelecheia
+google_analytics_id: G-VMN7QWCMSV
+logo_path: ''
+main_branch: main
+open_link: false
+package_name: hylpg
+package_scripts:
+- hylpg = 'hylpg.__cli__:main'
+poe_task_files:
+- .tasks.toml
+- .tasks-extra.toml
+project_description: 'HyFI-LPG is a powerful plugin for the HyFI framework, designed
+    to streamline the integration and utilization of large language models (LLMs)
+    in text processing and analysis tasks. This plugin aims to provide researchers
+    and practitioners with a seamless and efficient workflow, enabling them to harness
+    the full potential of LLMs for various applications.
+
+
+    With HyFI-LPG, users can easily incorporate state-of-the-art language models into
+    their projects, leveraging their advanced capabilities for natural language understanding,
+    generation, and manipulation. The plugin offers a user-friendly interface and
+    a comprehensive set of tools and utilities, making it accessible to both novice
+    and experienced users.'
+project_license: MIT
+project_name: hyfi-lpg
+project_short_description: HyFI-LPG is a powerful HyFI plugin for seamless integration
+    and utilization of large language models in text processing and analysis tasks,
+    enabling efficient workflows for researchers and practitioners.
+upload_to_release: true
+upload_to_repository: true
+use_launch_buttons: true
+use_source_code_skeleton: true
+
