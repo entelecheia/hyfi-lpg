@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hyfi-lpg"
-version = "0.0.0"
+version = "0.1.0"
 description = "HyFI-LPG is an LLM powered gleaning tool for HyFI."
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "MIT"
